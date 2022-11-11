@@ -1,9 +1,11 @@
 # Import necessary libraries:
 import pyttsx3
 import PyPDF2
+from tkinter.filedialog import *
 
+book = askopenfilename()
 # Read the file in binary mode:
-book = open('testing.pdf', 'rb')
+#book = open('testing.pdf', 'rb')
 print("book :", book)
 
 # Create a PdfFileReader object:
