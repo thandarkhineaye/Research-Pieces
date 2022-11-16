@@ -11,5 +11,5 @@ Run the main.py
 Choose PDF file location  
 Wait till recording finish because that's gonna be take time to finish according to amount of sentences.  
 
-Reference:
+Reference:  
 https://morioh.com/p/42a6957afa8a?f=5c21fb01c16e2556b555ab32&fbclid=IwAR1Bw1r9hgpQOAfRqnLxjCJqtp9tTBQCxuanJUtTP5L7xDsKSX3l4k7ZCX8
