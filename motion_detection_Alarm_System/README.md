@@ -1,5 +1,5 @@
 # Making Motion Detection Alarm System with Python
-Learning to uild a motion detection alarm system, which recognizes movement in Python.  
+Learning to build a motion detection alarm system, which recognizes movement in Python.  
 Open VSCode and create a project titled.
 Then, open the terminal and type the below-listed commands to install the respective libraries.  
 ```
